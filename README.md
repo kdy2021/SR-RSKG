@@ -1,4 +1,7 @@
 # SR-RSKG
+
+## Robust deep alignment network with remote sensing knowledge graph for zero-shot and generalized zero-shot remote sensing image scene classification
+
 Rskg.xlsx is the remote sensing domain knowledge graph file constructed in this work
 
 run kg. Py can import rskg. Xlsx into the local neo4j database
