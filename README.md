@@ -7,7 +7,7 @@ representation learning of remote sensing knowledge graph (SR-RSKG)
 
 Rskg.xlsx is the remote sensing domain knowledge graph file constructed in this work
 
-run kg. Py can import rskg. Xlsx into the local neo4j database
+run kg.py can import rskg. Xlsx into the local neo4j database
 
 Rskg.svg is the result graph after importing
 
