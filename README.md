@@ -1,7 +1,7 @@
 (1) rskg.xlsx is the source file of remote sensing knowledge graph (RSKG)
      run import_kg.py can import rskg. xlsx into the local neo4j database
      rskg.svg stands for the visual result of RSKG in neo4j
-     ![image](https://github.com/kdy2021/SR-RSKG/blob/main/data/RSKG.svg)
+     ![image](https://github.com/kdy2021/SR-RSKG/blob/main/data/RSKG.jpg)
 
 (2) sr-rskg.npy denotes the semantic vectors of 70 scene categories via TransH based on RSKG
 
